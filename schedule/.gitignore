@@ -1,0 +1,6 @@
+.vscode/
+.metals/
+.idea/
+*.exe
+&.log
+logs/
